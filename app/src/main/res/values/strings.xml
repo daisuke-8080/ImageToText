@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Image to Text</string>
+    <string name="description">camera picture</string>
+</resources>
