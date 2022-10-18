@@ -5,7 +5,8 @@
 本当は機械学習モデルをアプリに搭載してサードパーティとの通信なしで文字認識を行えるようにしたかったのですが、メモリとCPUの性能の関係で断念し、APIという手法を採用することにしました。
 
 以下に作成したアプリのデモgifを掲載します。(動画をgifに変換したのでカクついて見えますが実際はスムーズです)
-![Uploading ImageToText-デモgif.gif…]()
+
+![ImageToText-デモgif](https://user-images.githubusercontent.com/102433704/196470580-ca72633b-0ac5-447d-941c-f9a51e9d9835.gif)
 
 
 
